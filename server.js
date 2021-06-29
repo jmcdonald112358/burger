@@ -16,7 +16,7 @@ app.engine('.hbs', expHBS({
 
 app.set('view engine', 'hbs');
 
-const routes = require('./controllers/controller.js');
+const routes = require('./controllers/burgers_controller.js');
 app.use(routes);
 
 app.listen(port, () => {
