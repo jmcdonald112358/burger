@@ -34,6 +34,7 @@ To contribute to this project, email jmcdonald112358@gmail.com to be added to th
 ### Accreditations
 - Main image sourced from PNGHUT.com
 - Primary reference to complete this assignment was week 13 activity 16 
+- Referenced week 6 activities 2 and 3 for a refresher on AJAX calls
 - General Google searching and StackOverflow for assistance working through specific issues
 
 
