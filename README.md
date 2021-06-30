@@ -11,7 +11,6 @@ This project is a fun web application for logging burgers (or any sandwich, real
 - [License](#license)
 - [How to contribute](#contributing)
 - [Credits](#accreditations)
-- [Test instructions](#tests)
 - [Questions](#questions)
 
 ### Installation
