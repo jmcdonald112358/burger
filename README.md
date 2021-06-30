@@ -9,9 +9,9 @@ This project is a fun web application for logging burgers (or any sandwich, real
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [How to contribute](#contribute)
-- [Credits (conditional)](#credits)
-- [Test instructions (conditional)](#tests)
+- [How to contribute](#contributing)
+- [Credits](#accreditations)
+- [Test instructions](#tests)
 - [Questions](#questions)
 
 ### Installation
